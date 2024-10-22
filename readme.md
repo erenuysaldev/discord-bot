@@ -31,4 +31,3 @@ Gerekli modülleri yüklemek için npm install komutunu kullanın.
 3. Botu başlatmak için node bot.js komutunu kullanın.
 Bu bot, Discord sunucularında moderasyon ve eğlence işlevlerini bir araya getirerek kullanıcıların etkileşimde bulunmasını sağlar. Başka bir isteğiniz olursa lütfen belirtin!
 
-pip install -r requirements.txt
